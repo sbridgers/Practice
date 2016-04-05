@@ -7,8 +7,6 @@ output: html_document
 
 Just checking changes.
 
-Made a mistake!
-
 ```{r}
 summary(cars)
 ```
